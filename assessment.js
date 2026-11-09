@@ -1,4 +1,4 @@
-// 第13回のスタート時点のコード
+//
 
 'use strict';
 const userNameInput = document.getElementById('user-name');
