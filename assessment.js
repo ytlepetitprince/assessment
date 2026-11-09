@@ -1,4 +1,4 @@
-//
+//第１４回最終形
 
 'use strict';
 const userNameInput = document.getElementById('user-name');
